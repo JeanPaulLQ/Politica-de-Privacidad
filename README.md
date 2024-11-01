@@ -1,4 +1,4 @@
-Política de Privacidad de BuSound
+#Política de Privacidad de BuSound
 Última actualización: 1/11/2024
 
 La aplicación BuSound no recopila, almacena ni comparte ningún tipo de información personal de los usuarios.
